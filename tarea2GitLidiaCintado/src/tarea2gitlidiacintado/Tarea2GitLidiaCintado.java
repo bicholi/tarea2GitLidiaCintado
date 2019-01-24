@@ -15,7 +15,7 @@ public class Tarea2GitLidiaCintado {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Jugador lidia = new Jugador("Lidia",5,54487);
     }
     
 }
